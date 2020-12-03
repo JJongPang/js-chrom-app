@@ -46,4 +46,4 @@ function saveCoords(coordsObj) {
 - 값은 반드시 문자열로 저장됨.
 
 
-### Project URL: https://jjongpang.github.io/js-coordinates-project/
+### Project URL: https://jjongpang.github.io/js-chrome-app/
