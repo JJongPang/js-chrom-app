@@ -1,2 +1,3 @@
-# js-first-project-chrome
- JavaScript Project
+# Chorm App Clone Project
+
+
